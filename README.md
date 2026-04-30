@@ -12,7 +12,7 @@ No fluff. No filler.
 
 Just the facts on how we shattered our velocity records *without sacrificing production accuracy*.
 
-![001.v0.1 1.png](attachment:c878497a-4e21-4c96-be0c-47852ff99ef4:001.v0.1_1.png)
+![F1 Car](images/001.png)
 
 ## 1. From Minor Mismatches to Major Rework
 
@@ -80,7 +80,7 @@ Development becomes **interpretive**.
 
 ---
 
-![02.v.02 1.png](attachment:4da5dfc6-fec5-4905-a3cb-f3791827b495:02.v.02_1.png)
+![F1 Car](images/002.png)
 
 ## 3. “Looks Right” ≠ Production Ready
 
@@ -128,7 +128,7 @@ We asked:
 
 That single shift changed everything.
 
-![The core Inssight 1.png](attachment:ba4ff23f-2e8f-43d6-b13c-54e5d738c70f:The_core_Inssight_1.png)
+![F1 Car](images/003.png)
 
 ### Our new operating laws
 
@@ -168,7 +168,7 @@ For that small group:
 
 Once teams reach this level, they almost never go back.
 
-![05555623 1.png](attachment:b5221d00-5714-4b37-9e7d-b1b645145e6d:05555623_1.png)
+![F1 Car](images/004.png)
 
 ---
 
@@ -215,7 +215,7 @@ Small shift.
 
 Massive reduction in drift.
 
-![New-0.v.01 1.png](attachment:7691e010-739f-4137-9083-a914186faef3:New-0.v.01_1.png)
+![F1 Car](images/005.png)
 
 ---
 
@@ -244,7 +244,7 @@ Perfect alignment is the goal, but gains appear much earlier.
 
 Today, nearly **80% of our system is aligned** — and AI smooths out the rest.
 
-![New.v01 123 1.png](attachment:feb55526-bd60-4f22-b8f7-6e1e6cc1ba35:New.v01_123_1.png)
+![F1 Car](images/006.png)
 
 We’ve introduced a range of low-level, intermediate, and high-level components in Figma—[click through to explore and understand how they come together.](https://www.figma.com/design/IrQnJU0nUqiMWdnVtXUZlk/Figma-to-Production?node-id=1-2&t=l6Kv36ugdybpSkIU-1)
 
@@ -281,7 +281,7 @@ We just hit a major engineering milestone that feels a bit like magic : build 5,
 
 We broke the cycle of iterative guesswork by engineering a high-speed, automated pipeline. Our workflow has officially transitioned from a 'discovery-based' approach to a streamlined execution engine, enabling near-instant deployment of integrated features.
 
-![0555 5624.png](attachment:9840b27a-2aad-4817-a649-8d9d761b7c82:0555_5624.png)
+![F1 Car](images/007.png)
 
 ### The Velocity Shift
 
@@ -293,7 +293,7 @@ We broke the cycle of iterative guesswork by engineering a high-speed, automated
 
 To the community: If you have tips for high-speed, production-grade design creation, share them with us! And to design team: Hang in there—we’re working on the tools to make your workflow as seamless as our new pipeline.
 
-![044 1.png](attachment:1e6aacfe-865c-4038-8e3b-363911e41f9f:044_1.png)
+![F1 Car](images/008.png)
 
 ## **The Final Word**
 
@@ -302,7 +302,7 @@ To the community: If you have tips for high-speed, production-grade design creat
 **The reality is simple:** > If we design with the logic of a developer, AI transcends being a "helper" and becomes a powerhouse.
 That is how production finally becomes predictable.
 
-![05 555624.png](attachment:7b652d8f-f86a-4caf-af4f-d2da117023cc:05_555624.png)
+![F1 Car](images/009.png)
 
 **I write this as Bahubali Magadum:** This isn’t just about code; it’s about how we treat one another. We must replace the "battlefield of blame" with a culture of mutual respect. We are sharing our journey to help the community —I welcome your thoughts and feedback as we build this future together.
 
